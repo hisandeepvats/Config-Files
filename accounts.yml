@@ -3,7 +3,7 @@ build:
 
 
 accounts:
- message: "Welcome to TyagiBank accounts related local APIs "
+ message: "Welcome to TyagiBank accounts related local docker APIs "
  contactDetails:
   name: "John Doe - Developer"
   email: "john@GM.com"
