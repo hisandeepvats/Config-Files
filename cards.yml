@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to TyagiBank cards related local APIs "
+  message: "Welcome to TyagiBank cards related local docker auto refresh APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@gm.com"
